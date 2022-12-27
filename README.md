@@ -3,10 +3,10 @@
 
 ### Front:
 ![](front.png)
-React, Vite, Tailwind
+######React, Vite, Tailwind
 ### Back:
 ![](back.png)
-fastAPI, uvicorn, motor
+######fastAPI, uvicorn, motor
 ### Database:
 ![](db.png)
-mongoDB on ATLAS
+######mongoDB on ATLAS
