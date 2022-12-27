@@ -2,7 +2,8 @@
 #### it is a simple todo application
 
 ### Front:
-
+![](front.png)
 ### Back:
-
+![](back.png)
 ### Database:
+![](db.png)
