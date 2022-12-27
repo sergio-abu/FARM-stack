@@ -3,7 +3,7 @@
 
 ### Front:
 ![](front.png)
-###### #React, Vite, Tailwind
+###### React, Vite, Tailwind
 ### Back:
 ![](back.png)
 ###### fastAPI, uvicorn, motor
